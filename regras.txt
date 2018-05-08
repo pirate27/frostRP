@@ -1,0 +1,55 @@
+0 - Regras Gerais:
+0.1) Proibido RDM
+0.1.1) Configura-se RDM como matar um player sem motivo plausivel em uma situação na vida real. Por exemplo, metralhar uma pessoa porque ela respirou seria considerado como rdm
+0.2) Proibido NLR
+0.2.1) Configura-se NLR como lembrar-se da sua vida passada e utiliza-la no RP após sua morte. Por exemplo, ir atrás de quem te matou.
+0.2.2) Vingança pessoal após a morte, ou seja, dar respawn e matar quem foi o responsavel pela sua morte prévia configura-se RDM + NLR, e como todas as infrações, é cumulativo
+0.3) Siga o RP e o FearRP
+0.3.1) Configura-se FearRP como temer pela sua vida. Por exemplo, se alguém está apontando uma arma para você e você resolve sair correndo ao invés de obedecer seus comandos
+0.3.2) RP é o modo de jogo, significa RolePlay. Portanto você interpreta uma pessoa em um mundo muito louco, que é nosso servidor.
+0.3.3) Não saia do RP, ou seja, não mencione a job de pessoas porque no "TAB" diz. Isso se caracteriza como FailRP
+0.4) Não obstrua totalmente a passagem de pessoas e carros pelo mapa
+0.5) Proibido abusar do mic. Por exemplo, ficar gritando coisas aleatorias pelo spawn
+0.6) Para defender um colega vocês devem fazer parte da mesma gangue, ou seja possuir o mesmo nome de job. Isso vale apenas para criminosos, se você for um vendedor de armas não pode defender um mafioso pos isso se enquadrarai em FailRP (regra 0.3)
+
+1 - Regras de construção:
+1.1) Fading doors:
+1.1.1) Coloque no mínimo 5 segundos para Keypad
+1.1.2) Coloque no máximo 3 fading doors para acessar qualquer local da sua base
+1.1.3) Fading Doors de acesso, como portas, devem ser feitas com apenas 1 prop. Pois ao usar lockpick, o ladrão não desbloqueia a keypad mas sim cada fading door individualmente
+1.1.4) Proibido abrir e fechar fading doors pelo teclado enquanto estiver sendo raidado
+1.1.5) Proibido abrir e fechar um prop à prova de bala para ganhar vantagem em combate
+1.2) Proibido criar paredes que são transparentes por apenas um lado
+1.3) Entre duas fading door's quaisquer, deve conter pelo menos espaço para 3 pessoas em pé
+1.4) Proibido criar labirintos ou usar fake keypads
+1.5) Proibido criar base que para invadir tenha que pular ou agachar
+1.6) Proibido prop climbing, ou seja, utilizar props para acessar lugares incomuns
+1.7) Você pode fechar areas desde que você e sua gangue compre todas as portas dentro da mesma
+1.8) Proibido criar lojas no meio da rua
+
+2- Regras para membros do governo (Policia e etc):
+2.1) Você deve algemar qualquer suspeito e leva-lo até a delegacia antes de usar seu bastão para prender
+2.2) Você precisa de um mandato para invadir uma residencia, e pode criar um (caso seu cargo permita) se tiver recebido alguma denuncia
+2.3) Você pode utilizar a viatura a paisana, mas não deve sair do trabalho de policial. Utilizar a viatura com emprego errado resulta em punição
+2.4) Você deve obedecer quem tiver um cargo superior, caso ele infrinja ou peça para você infrigir uma regra chame o admin @ e se recuse a cumprir
+2.5) Sempre fale o motivo da prisão para quem estiver sendo preso
+
+3- Criminosos
+3.1) Assaltar
+3.1.1) É obrigatório anunciar o assalto antes de render/algemar sua vitima
+3.1.2) Pode pedir no máximo 5k
+3.1.3) É obrigatório esperar 5 minutos entre um assalto e outro
+3.2) Raidar
+3.2.1) É obrigatorio usar /advert raid para raidar qualquer lugar
+3.2.2) Um raid pode durar no máximo 10 minutos e deve terminar com /advert over
+3.2.3) Usar prop climbing (spawnar props para acessar a base de alguem) é ESTRITAMENTE proibido
+3.2.4) Só é permitido raidar com pessoal que faz parte de uma mesma party
+3.3) Proibido vender viatura para desmanche
+3.4) Proibido roubar carros de job. Por exemplo, taxi, viatura e reboque
+
+4- Civis
+4.1) Apenas médicos particulares podem trabalhar para criminosos, e também podem ser presos se forem pegos ajudando um criminoso durante um ato
+4.2) Médicos não podem possuir armas maiores que pistolas
+4.3) Sempre retorne sua ambulância para o hospital
+4.4) Médicos do governo não podem cobrar para curar policiais, cobre do prefeito pelos seus serviços
+4.5) Proibido self-supply, ou seja, spawnar armas para si mesmo e trocar de job mantendo essas armas
